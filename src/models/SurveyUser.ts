@@ -11,7 +11,7 @@ class SurveyUser {
     user_id: string;
 
     @Column()
-    servey_id: string;
+    survey_id: string;
 
     @Column()
     value: number;
