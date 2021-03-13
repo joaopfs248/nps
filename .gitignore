@@ -2,7 +2,8 @@
 **/node_modules
 
 ## Database Versions ##
-src/database/**.v*.sqlite
+src/database/*.*.sqlite
+src/database/*.*.sqlite-journal
 
 ### Node ###
 .env
