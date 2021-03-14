@@ -6,7 +6,7 @@ src/database/*.*.sqlite
 src/database/*.*.sqlite-journal
 
 ### Node ###
-.env
+
 
 # Logs
 logs
