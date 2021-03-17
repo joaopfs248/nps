@@ -1,3 +1,10 @@
+<style type="text/css">
+    h1 {
+        color: orange;
+        font-family: Cooper, Helvetica, sans-serif;
+    }
+</style>
+
 <h1 align="center">NPS - Net Promote Score</h1>
 
 <p align="center">
@@ -20,7 +27,7 @@
   <img alt="NPS" src=".github/preview.png" width="100%">
 </p>
 
-## ✨ Tecnologias
+## 🛰️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Jest](https://jestjs.io/)
 - [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
 
-## 💻 Projeto
+## 🧩 Projeto
 
 O NPS é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
 
@@ -41,7 +48,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 <img src="public/diagrama.png" alt="Diagrama da aplicação" />
 
-## 🚀 Como executar
+## 💻 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
@@ -55,4 +62,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by JoaoPFS 👋🏻 [Acesse meu profile!](bit.ly/joaopfs)
+Feito com 💙 by JoaoPFS 🖱️ [Acesse meu profile!](bit.ly/joaopfs)
