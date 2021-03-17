@@ -1,4 +1,4 @@
-<h1 align="center" style="color: orange; font-family: Cooper;">NPS - Net Promote Score</h1>
+<h1 align="center">NPS - Net Promote Score</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
